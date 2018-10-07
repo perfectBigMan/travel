@@ -1,14 +1,18 @@
 <template>
-    <div class="home">
-        <div>home</div>
-        <router-link to="/list">list</router-link>
+    <div>
+        <home-header></home-header>
     </div>
 </template>
+
 <script>
+import HomeHeader from './components/Header'
 export default {
   data () {
     return {
     }
+  },
+  components: {
+    HomeHeader
   }
 }
 </script>
