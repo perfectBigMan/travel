@@ -2,7 +2,9 @@
     <div class="header">
         <div class="header-left"><span class="iconfont back-icon">&#xe624;</span></div>
         <div class="header-input"><span class="iconfont">&#xe632;</span></div>
-        <div class="header-right">city<span class="iconfont arrow-icon">&#xe62d;</span></div>
+        <div class="header-right">
+          city<span class="iconfont arrow-icon">&#xe62d;</span>
+        </div>
     </div>
 </template>
 <script>

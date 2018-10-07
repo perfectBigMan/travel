@@ -22,7 +22,7 @@ export default {
         id: '0001',
         imgUrl: 'https://img1.qunarzz.com/vc/f3/ea/ae/095dd61c09f2797ba9147bd03f.jpg'
       }, {
-        id: '0001',
+        id: '0002',
         imgUrl: 'https://img1.qunarzz.com/vc/4e/c2/9a/61222b895136533c133ee9e8bc.jpg'
       }]
     }
@@ -38,7 +38,7 @@ export default {
     overflow: hidden
     width: 100%
     heigth: 0
-    padding-bottom: 31.25%
+    //padding-bottom: 31.25%
     // background: #eee
   .swiper-img
     width: 100%
